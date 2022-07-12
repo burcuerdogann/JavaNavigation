@@ -2,4 +2,4 @@
 
 Android Development / Java Tutorial - Lesson 26
 
-Fragments | Navigation | Graphic | Action | Arguments
+Fragments | Navigation | Graphic | Action | Args
